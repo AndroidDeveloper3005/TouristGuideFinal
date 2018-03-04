@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TouristGuideFinal</string>
+    <string name="title_home">Home</string>
+    <string name="title_my_trip">My Trips</string>
+    <string name="title_me">Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
